@@ -1,0 +1,421 @@
+body {
+  background-color: #F9FEFF;
+}
+
+body .text-orange {
+  color: #FD9704;
+}
+
+body h1 {
+  font-size: 65px;
+  font-weight: 700;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+}
+
+body h2 {
+  font-size: 35px;
+  font-weight: 700;
+  font-family: 'Poppins', sans-serif;
+  color: #137ECB;
+}
+
+body p {
+  font-family: 'Poppins', sans-serif;
+  font-size: 18px;
+  color: #808080;
+}
+
+body h6 {
+  font-family: 'Poppins', sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+body .btn-primary {
+  background-color: #FD9704;
+  border: none;
+  border-radius: 30px;
+  padding: 8px 30px;
+}
+
+body .btn-primary:hover {
+  background-color: #ffa932;
+  border: none;
+  border-radius: 30px;
+  padding: 8px 30px;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+}
+
+body .btn-secondary {
+  background-color: transparent;
+  border-color: #137ECB;
+  border-radius: 40px;
+  padding: 8px 30px;
+  color: #137ECB;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+}
+
+body .btn-secondary:hover {
+  border-color: #137ECB;
+  background-color: #0d6caf;
+  color: #ffffff;
+  opacity: 50px;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+}
+
+.bg-nav {
+  background-color: #137ECB;
+}
+
+.bg-nav .navbar {
+  background-color: #137ECB;
+}
+
+.navbar-flat {
+  background-color: #137ECB;
+}
+
+.navbar-flat .navbar {
+  background-color: #137ECB;
+}
+
+.navbar-flat span.text-muted {
+  color: #ffffff !important;
+  font-family: 'Poppins', sans-serif;
+}
+
+.breadcrumb {
+  padding-top: 40px;
+  background-color: transparent;
+  padding-bottom: 40px;
+}
+
+.breadcrumb .breadcrumb-item {
+  color: #137ECB;
+}
+
+.breadcrumb .breadcrumb-item.active {
+  font-weight: 600;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 200;
+  color: #ffffff;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 200;
+  color: #e4e4e4;
+}
+
+.navbar-light .navbar-nav .nav-link.active {
+  font-family: 'Poppins', sans-serif;
+  font-weight: bold;
+  color: #ffffff;
+}
+
+.header {
+  background-color: #137ECB;
+}
+
+.header .header-content {
+  padding: 60px 0 400px;
+}
+
+.header .header-content p {
+  color: #ffffff;
+}
+
+.image-header {
+  margin-top: -350px;
+  padding-bottom: 50px;
+}
+
+.sponsorship {
+  padding-bottom: 100px;
+}
+
+.why-join {
+  padding-top: 70px;
+  padding-bottom: 135px;
+}
+
+.why-join .content-why-join {
+  padding-left: 25px;
+  padding-bottom: 25px;
+}
+
+.why-join .content-why-join p {
+  font-size: 15px;
+}
+
+.why-join .content-why-join h6 {
+  margin-bottom: 5px !important;
+}
+
+.why-join .image-decor1 {
+  margin-top: -630px;
+}
+
+.tittle-competition {
+  padding-top: 135px;
+  padding-bottom: 70px;
+}
+
+.tittle-competition .category-competition {
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.tittle-competition .competition {
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin: 20px;
+  border-radius: 5px;
+  background-color: #ffffff;
+  padding: 20px;
+  padding-bottom: 50px;
+  padding-top: 30px;
+  -webkit-box-shadow: 5px 5px 30px -23px;
+          box-shadow: 5px 5px 30px -23px;
+}
+
+.tittle-competition .competition h6 {
+  font-weight: 700;
+  padding-top: 22px;
+  padding-bottom: 6px;
+  font-family: 'Poppins', sans-serif;
+  color: #25282B;
+  font-size: 20;
+}
+
+.tittle-competition .competition .description {
+  font-family: 'Poppins', sans-serif;
+  color: #808080;
+  font-size: 20;
+}
+
+.tittle-competition #math:hover {
+  background-color: #1A8FE2;
+  -webkit-transition: 0.4s;
+  transition: 0.4s;
+}
+
+.tittle-competition #math:hover h6 {
+  color: #ffffff;
+  -webkit-transition: 0.4s;
+  transition: 0.4s;
+}
+
+.tittle-competition #math:hover .description {
+  color: #ffffff;
+  -webkit-transition: 0.4s;
+  transition: 0.4s;
+}
+
+.tittle-competition #science:hover {
+  background-color: #E81DD3;
+  -webkit-transition: 0.4s;
+  transition: 0.4s;
+}
+
+.tittle-competition #science:hover h6 {
+  color: #ffffff;
+  -webkit-transition: 0.4s;
+  transition: 0.4s;
+}
+
+.tittle-competition #science:hover .description {
+  color: #ffffff;
+  -webkit-transition: 0.4s;
+  transition: 0.4s;
+}
+
+.tittle-competition #history:hover {
+  background-color: #E81D5A;
+  -webkit-transition: 0.4s;
+  transition: 0.4s;
+}
+
+.tittle-competition #history:hover h6 {
+  color: #ffffff;
+  -webkit-transition: 0.4s;
+  transition: 0.4s;
+}
+
+.tittle-competition #history:hover .description {
+  color: #ffffff;
+  -webkit-transition: 0.4s;
+  transition: 0.4s;
+}
+
+.tittle-competition #english:hover {
+  background-color: #51D613;
+  -webkit-transition: 0.4s;
+  transition: 0.4s;
+}
+
+.tittle-competition #english:hover h6 {
+  color: #ffffff;
+  -webkit-transition: 0.4s;
+  transition: 0.4s;
+}
+
+.tittle-competition #english:hover .description {
+  color: #ffffff;
+  -webkit-transition: 0.4s;
+  transition: 0.4s;
+}
+
+.tittle-competition #story:hover {
+  background-color: #E8AF1D;
+  -webkit-transition: 0.4s;
+  transition: 0.4s;
+}
+
+.tittle-competition #story:hover h6 {
+  color: #ffffff;
+  -webkit-transition: 0.4s;
+  transition: 0.4s;
+}
+
+.tittle-competition #story:hover .description {
+  color: #ffffff;
+  -webkit-transition: 0.4s;
+  transition: 0.4s;
+}
+
+.tittle-competition .dot {
+  margin-left: 750px;
+  margin-top: -530px;
+}
+
+.about-us {
+  margin-top: 70px;
+  padding-bottom: 70px;
+}
+
+.about-us p {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+section.profile .profile-content .profile-image {
+  margin-left: -70px;
+  padding-top: 70px;
+}
+
+section.profile .profile-content .content {
+  padding-left: 30px;
+}
+
+section.footer {
+  padding-top: 50px;
+  padding-bottom: 30px;
+  background-color: #137ECB;
+  color: #ffffff;
+}
+
+section.footer h3 {
+  margin-top: 30px;
+}
+
+section.footer p {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: #ffffff;
+}
+
+section.footer img {
+  margin-right: 20px;
+}
+
+section.footer .footer-links {
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: flex-end;
+  margin-top: 90px;
+}
+
+section.footer .footer-links p {
+  margin-left: 40px;
+  font-weight: 600;
+}
+
+.details-science {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.section-not-allowed .not-allowed {
+  padding-top: 20px;
+}
+
+.section-not-allowed h2 {
+  padding: 20px;
+}
+
+.section-not-allowed p {
+  padding-bottom: 15px;
+}
+
+@media screen and (max-width: 600px) {
+  .image-header {
+    display: none;
+  }
+  .header-content {
+    padding-bottom: 150px !important;
+    margin-bottom: 50px;
+  }
+  .why-join {
+    padding-top: 50px;
+    padding-bottom: 45px;
+  }
+  .tittle-join {
+    text-align: center;
+  }
+  .content {
+    padding-top: 50px;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+  }
+  .image-decor1 {
+    display: none;
+  }
+  .tittle-competition {
+    padding-top: 45px;
+    padding-bottom: 70px;
+  }
+  .dot {
+    display: none;
+  }
+  .about-img {
+    display: none;
+  }
+  .profile-image {
+    display: none;
+  }
+  .image-details {
+    display: none;
+  }
+  .breadcrumb {
+    padding-top: 40px;
+    background-color: transparent;
+    padding-bottom: 50px;
+  }
+  .breadcrumb .breadcrumb-item {
+    color: #137ECB;
+  }
+  .breadcrumb .breadcrumb-item.active {
+    font-weight: 600;
+  }
+}
+/*# sourceMappingURL=main.css.map */
